@@ -1,6 +1,5 @@
-:metal:
-###Welcome to my Github Account
-:metal: \
+
+###Welcome to my Github Account\
 ####My name is Alex Thompson and this is a repository of things I am learning or have learned in my trip as a Software Developer.
 
 <hr/>
