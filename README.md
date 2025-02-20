@@ -4,7 +4,8 @@
 
 <hr/>
 
-* Currently a Software Developer II, but this Github Account is just for personal projects/ideas.
+* Looking for a job
+* Currently a Software Developer III, but this Github Account is just for personal projects/ideas.
 * Interested in Game Development, Web Development (front-end and back-end), Machine Learning (specifically with TensorFlow), Cloud Infrastructure, and Mobile App Development
 * Currently in the process of learning Go, Machine Learning (Tensorflow, pandas, etc.), OpenGL and WebGL, and Mobile App Deployment
 
